@@ -1,0 +1,13 @@
+server:
+  port: 8762
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/,http://localhost:8760/eureka/
+    instance:
+      prefer-ip-address: true
+    #prefer-ip-address= true 表示将自己的ip注册到EurekaServer
+    #如不配置改属性设置为false，则表示注册微服务器所在的操作系统的hostname到EurekaServer
+spring:
+  application:
+    name: springcloud1-tigong

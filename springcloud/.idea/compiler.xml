@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_1_tigong" />
+        <module name="springcloud" />
+        <module name="springcloud_1" />
+        <module name="springcloud_1_service" />
+        <module name="springcloud_2_api" />
+        <module name="springcloud_2_xiaofei" />
+        <module name="springcloud_2_xiaofei_fegin" />
+        <module name="springcloud_2_zhongxin" />
+        <module name="springcloud_3_tigong" />
+        <module name="springcloud_3_tigong_zuul" />
+        <module name="springcloud_3_xiaofei_fegin" />
+        <module name="springcloud_3_zhongxin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot_1_tigong" target="1.8" />
+      <module name="springcloud" target="1.8" />
+      <module name="springcloud_1" target="1.8" />
+      <module name="springcloud_1_service" target="1.8" />
+      <module name="springcloud_2_api" target="1.5" />
+      <module name="springcloud_2_tigong" target="1.8" />
+      <module name="springcloud_2_xiaofei" target="1.8" />
+      <module name="springcloud_2_xiaofei_fegin" target="1.8" />
+      <module name="springcloud_2_zhongxin" target="1.8" />
+      <module name="springcloud_3_tigong" target="1.8" />
+      <module name="springcloud_3_tigong_zuul" target="1.8" />
+      <module name="springcloud_3_xiaofei" target="1.8" />
+      <module name="springcloud_3_xiaofei_fegin" target="1.8" />
+      <module name="springcloud_3_zhongxin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

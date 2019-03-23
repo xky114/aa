@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot_1_tigong/springboot_1_tigong.iml" filepath="$PROJECT_DIR$/springboot_1_tigong/springboot_1_tigong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_1/springcloud_1.iml" filepath="$PROJECT_DIR$/springcloud_1/springcloud_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_1_service/springcloud_1_service.iml" filepath="$PROJECT_DIR$/springcloud_1_service/springcloud_1_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_2_api/springcloud_2_api.iml" filepath="$PROJECT_DIR$/springcloud_2_api/springcloud_2_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_2_tigong/springcloud_2_tigong.iml" filepath="$PROJECT_DIR$/springcloud_2_tigong/springcloud_2_tigong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_2_xiaofei/springcloud_2_xiaofei.iml" filepath="$PROJECT_DIR$/springcloud_2_xiaofei/springcloud_2_xiaofei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_2_xiaofei_fegin/springcloud_2_xiaofei_fegin.iml" filepath="$PROJECT_DIR$/springcloud_2_xiaofei_fegin/springcloud_2_xiaofei_fegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_2_zhongxin/springcloud_2_zhongxin.iml" filepath="$PROJECT_DIR$/springcloud_2_zhongxin/springcloud_2_zhongxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_3_tigong/springcloud_3_tigong.iml" filepath="$PROJECT_DIR$/springcloud_3_tigong/springcloud_3_tigong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_3_tigong_zuul/springcloud_3_tigong_zuul.iml" filepath="$PROJECT_DIR$/springcloud_3_tigong_zuul/springcloud_3_tigong_zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_3_xiaofei_fegin/springcloud_3_xiaofei_fegin.iml" filepath="$PROJECT_DIR$/springcloud_3_xiaofei_fegin/springcloud_3_xiaofei_fegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_3_zhongxin/springcloud_3_zhongxin.iml" filepath="$PROJECT_DIR$/springcloud_3_zhongxin/springcloud_3_zhongxin.iml" />
+    </modules>
+  </component>
+</project>

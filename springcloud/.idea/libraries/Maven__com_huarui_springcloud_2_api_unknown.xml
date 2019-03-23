@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.huarui:springcloud_2_api:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/huarui/springcloud_2_api/unknown/springcloud_2_api-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/huarui/springcloud_2_api/unknown/springcloud_2_api-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/huarui/springcloud_2_api/unknown/springcloud_2_api-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

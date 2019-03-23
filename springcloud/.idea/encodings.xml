@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_1_tigong" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_1_tigong/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springcloud_1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_1_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_2_tigong" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_2_xiaofei" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_2_xiaofei_fegin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_2_zhongxin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_3_tigong" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_3_tigong" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_3_tigong_zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_3_xiaofei_fegin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_3_zhongxin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_3_zhongxin" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

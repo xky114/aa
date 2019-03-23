@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: springcloud-xiaofei-feign
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8765
+  #启动断路器 开启报错
+feign:
+  hystrix:
+    enabled: true
